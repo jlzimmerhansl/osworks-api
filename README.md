@@ -1,5 +1,5 @@
 <h2 align="center">
-            IsWorks-Api
+            OsWorks-Api
 </h2>
 <h4 align="center">
             :building_construction: &nbsp; In construction
